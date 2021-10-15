@@ -7,7 +7,7 @@ My activity is tracked in the table below:
 
 | Date | File(s) | Description | 
 | -- | --- | --- | 
-| 10/9/21 | [Deep Learning with Keras](https://github.com/zacharywilkerson/machine-learning/blob/main/Deep%20Learning%20with%20Keras.ipynb) | `Next steps`: Add specific models (CNNS, RNNs) in new file | 
+| 10/9/21 | [Deep Learning with Keras](https://github.com/zacharywilkerson/machine-learning/blob/main/Deep%20Learning%20with%20Keras.ipynb) | `Next Steps`: Add specific models (CNNS, RNNs) in new file | 
 | # | # | # |
 | # | # | # |
 | # | # | # |
