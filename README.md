@@ -8,7 +8,7 @@ This repo documents all my ML review material, as well as projects I've worked o
 An overview of files is shown in the table below: 
 
 | File(s) | Description | 
-| --- | --- | 
+| -- | ---- | 
 | [Deep Learning with Keras](https://github.com/zacharywilkerson/machine-learning/blob/main/Learning/Deep%20Learning%20with%20Keras.ipynb) | `Next Steps`: Add specific models (CNNS, RNNs) in new file | 
 |  |  |
 |  |  |
